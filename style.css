@@ -1,0 +1,269 @@
+.navbar{
+    height: 200px;
+}
+.container{
+    height: 7.5rem;
+    width: 75%;
+    position:absolute;
+    left:13%;
+    display:flex;
+}
+#box1{
+    display: inline;
+    color: red;
+    height: 62px;
+    position: absolute;
+    top: 24px;
+    width: 505px;
+    font-size: 70px;
+}
+
+#box2{    display: inline;
+    height: 62px;
+    position: absolute;
+    top: 24px;
+    left: 40%;
+    width: 60%;
+    font-size: 27px;
+    text-align: right;
+}
+#dropdown{
+    position: absolute;
+    right: 21%;
+    top: 11%;
+    height: 50px;
+    font-size: 27px;
+    background-color: black;
+    color: #ffffff;
+}
+
+button{
+    font-size: 27px;
+    position: absolute;
+    right: 0%;
+    height: 50px;
+    top: 11%;
+    background-color: #e41e1e;
+    color: #ffffff;
+}
+button:hover{
+    background-color: #9e1d1d;
+}
+#inline{
+    display: inline;
+}
+body{
+    background-image: url("https://repository-images.githubusercontent.com/299409710/b42f7780-0fe1-11eb-8460-e459acd20fb4");
+    height: 1000px;
+}
+#part1{
+    height: 780px;
+}
+main{
+    height: 1100px;
+    
+}
+#mainbox{
+    height: 559px;
+    width: 60%;
+    color: #ffffff;
+    margin: 148px 20%;
+}
+#bigtext{
+    height: 258px;
+    text-align: center;
+    font-size: 56px;
+    margin-bottom: 27px;
+}
+#sdiv1{
+    margin-top: 31px;
+    margin-bottom: 40px;
+    text-align: center;
+    font-size: 42px;
+}
+#sdiv2{
+    text-align: center;
+    height: 40px;
+    font-size: 31px;
+    margin-bottom: 20px;
+}
+#sdiv3{
+    height: 122px;
+  
+    display: flex;
+    padding: 20px;
+}
+#email{
+    font-size: 36px;
+
+}
+#sdiv3 input{
+    width: 443px;
+    background-color: rgb(112, 100, 100, 0.1);
+    height: 50px;
+    font-size: 27px;
+}
+
+#b2{
+    font-size: 27px;
+    height: 50px;
+position: relative;
+    
+    color: #ffffff;
+}
+#s{
+    width: 60%;
+}
+#curvyline{
+    height: 5px;
+   
+    border: 2px solid pink;
+    border-radius: 50% 100px 100px 0 0;
+}
+#heading{
+    height: 62px;
+    color: #ffffff;
+    font-size: 57px;
+    margin: 83px 0px;
+    width: 100%;
+    color: white;
+}
+#part2{
+   background-color: rgba(0, 0, 0, 0.151);
+    width: 100%;  
+    color: #ffffff;
+}
+#part2cont{
+    height: 600px;
+    width: 80%;
+    
+    position: absolute;
+    left: 212px;
+    border-radius: 33px;
+    display: flex;
+}
+#part2cont div{
+    height: 550px;
+    width: 420px;
+    background: linear-gradient(149deg, #192247 0%, #210e17 96.86%);
+    border-radius: 50px;
+    margin: 9px;
+}
+#part2cont img{
+    position: relative;
+    top: -108px;
+    left: 200px;
+}
+#part2cont h1{
+    text-align: left;
+    height: 400px;
+    font-size: 74px;
+}
+#bgcolor{
+    background-color: rgb(0, 0, 0);
+    height: 3000px;
+    width: 100%;
+}
+#part3 #heading{
+    position: relative;
+    top: 700px;
+    font-size: 33px;
+    left: 127px;
+}
+#part3{
+    height: 60px;
+    background-color: rgb(0, 0, 0);
+}
+#faq{
+    height: 80px;
+    width: 60%;
+    background-color: rgb(56, 52, 52);
+    position: relative;
+    top: 679px;
+    margin: 33px;
+    left: 93px;
+    color: white;
+    font-size: 53px;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    align-items: center;
+}
+#faq p{
+    display: inline;
+}
+#bigfs{
+    font-size: 99px;
+}
+#final{
+    color: white;
+    position: relative;
+    top: 502px;
+    font-size: 30px;
+    left: 270px;
+}
+#email{
+    height: 70px;
+    width: 1500px;
+    position: relative;
+    top: 2081px;
+    left: 128px;
+    background-color: rgb(128, 128, 128,0.2);
+    border-radius: 10px;
+    color: white;
+}
+#b3{
+    height: 76px;
+    width: 320px;
+    font-size: 38px;
+    position: relative;
+    top: -921px;
+    left: 1709px;
+    border-radius: 10px;
+}
+footer{
+    height: 700px;
+}
+footer{
+       height: 589px;
+    position: relative;
+    top: -371px;
+    display: flex;
+    background-color: black;
+}
+#f1{
+    height: 444px;
+    width: 345px;
+   color: white;
+    position: relative;
+    top: -448px;
+    left: 206px;
+    margin: 20px
+}
+#f1 a{
+    display: block;
+    font-size: 32px;
+    margin: 38px;
+    color: white;
+}
+footer select{
+    position: absolute;
+    left: 13%;
+    top: -2%;
+    height: 90px;
+    font-size: 42px;
+    background-color: black;
+    color: #ffffff;
+    width: 204px;
+    text-align: center;
+    border-radius: 19px;
+}
+footer p{
+    color: white;
+    position: relative;
+    top: 33%;
+    font-size: 27px;
+    right: 938%;
+}
+
+
